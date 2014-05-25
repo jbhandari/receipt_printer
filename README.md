@@ -3,7 +3,7 @@ Philips- medSage screening
 ***
 This program was created without implementing test driven development(TDD). The Metis program utilized error driven development, however we were told to pursue test driven development once the program was over. I am currently learning about TDD through thoughtbot's online TDD workshop through their Learn workshop series. I estimate that by June 1, 2014, I will begin implementing TDD practices into my code. 
 
-If you are interested in the process of how I built this program, you can view the [closed pull requests] (https://github.com/jbhandari/screening_philips/pulls?direction=desc&page=1&sort=created&state=closed)section of this repository. 
+If you are interested in the process of how I built this program, you can view the [closed pull requests] (https://github.com/jbhandari/screening_philips/pulls?direction=desc&page=1&sort=created&state=closed) section of this repository. 
 ***
 
 Question 2 
