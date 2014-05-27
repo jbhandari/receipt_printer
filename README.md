@@ -16,6 +16,19 @@ High-level overview of how it was built:
 
 ***
 
+## How To Run The Program
+
+After you cd into the directory inside of your terminal, you can run the program by typing in
+- ruby receipt.rb ___FILENAME___
+ - inside of the data folder there are three files that contain the three product sets as outline by the question below they    are: 
+  - items_1.txt
+  - items_2.txt
+  - items_3.txt
+ -in order to run the program, the program needs a data file, so if you substitute ___FILENAME___ for any of the three        filenames above you will be able to run the program successfully 
+  - example:  ruby receipt.rb items_2.txt
+
+***
+
 ## Question 
 
 PROBLEM TWO: SALES TAXES 
