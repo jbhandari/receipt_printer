@@ -1,4 +1,4 @@
-Philips- medSage screening
+### Philips- medSage screening
 
 ***
 This program was created without implementing test driven development(TDD). The Metis program utilized error driven development, however we were told to pursue test driven development once the program was over. I am currently learning about TDD through thoughtbot's online TDD workshop through their Learn workshop series. I estimate that by June 1, 2014, I will begin implementing TDD practices into my code. 
@@ -16,7 +16,7 @@ High-level overview of how it was built:
 
 ***
 
-Question 2 
+## Question 
 
 PROBLEM TWO: SALES TAXES 
  
